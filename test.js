@@ -26,3 +26,4 @@ dfdfdfdff
 dfdf
 dfdf
 blabla.firebaseio.com/bla
+AKIAIOSFODNN7E123PLE
