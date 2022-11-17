@@ -13,17 +13,3 @@ test
 echo
 www.firebaseio.com
 
-dfdfdfdff
-dfdf
-1233435AKIAIOSFODNN7EXAMPLE
-dfdf
-
-www.firebaseio.com.com
-dfdffd
-blabla.firebaseio.com
-AKIAIOSFODNN7EXAdfdfdffddfMPLE
-dfdfdfdff
-dfdf
-dfdf
-blabla.firebaseio.com/bla
-AKIAIOSFODNN7E123PLE
